@@ -1,6 +1,3 @@
-1. Click "Add a README" button on your repo page
-2. GitHub opens an editor — paste this:
-
 # Whisper Hindi Fine-tuning (Practice Run)
 
 Fine-tuning OpenAI Whisper for Hindi speech recognition.
